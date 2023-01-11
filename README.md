@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=299900&height=120&section=headertext"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1D6A01&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Everthon+Rodrigues;I'm+23+years+old;I+from+Brasil,+SP;I+study+ADS+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a5a6a6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Everthon+Rodrigues;I'm+23+years+old;I+from+Brasil,+SP;I+study+ADS+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 >
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=everthon08&bg_color=080807&color=2c9b03&line=36c601&point=006110&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=everthon08&bg_color=080807&color=b7b8b7&line=1d6a01&point=006110&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  ![everthon08 GitHub stats](https://github-readme-stats.vercel.app/api?username=everthon08&show_icons=true&theme=dark)
 
 <div align="center"> 
 <a href = "reverthon4@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
