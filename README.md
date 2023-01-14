@@ -3,13 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a5a6a6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Everthon+Rodrigues;I'm+23+years+old;I+from+Brasil,+SP;I+study+ADS+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 >
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=everthon08&bg_color=080807&color=b7b8b7&line=1d6a01&point=006110&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div>
+  <a href="https://github.com/everthon08">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everthon08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everthon08&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
-  ![everthon08 GitHub stats](https://github-readme-stats.vercel.app/api?username=everthon08&show_icons=true&theme=dark)
+
+![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <div align="center"> 
-<a href = "reverthon4@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+ <a href = "reverthon4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ### Main skills:
