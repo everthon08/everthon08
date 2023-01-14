@@ -10,12 +10,9 @@
 </div>
 
 
-![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <div align="center"> 
- <a href = "reverthon4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href= "reverthon4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" p= 10px> </a>
 
 
 ### Main skills:
